@@ -1,9 +1,9 @@
 theme = rose-pine
 background = 000000
 shell-integration-features = no-cursor,no-sudo,title
+gtk-titlebar = false
 
 # cursor-style = block
 
 # font-size = 33.0
 # font-family = UbuntuMono Nerd Font Mono
-
